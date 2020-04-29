@@ -1,0 +1,166 @@
+region	Oceania	-32.395085	152.518443
+region	Eastern Asia	32.974946	103.95701
+region	Southeastern Asia	3.965780	108.343168
+region	Southern Asia	27.961237	71.898465
+region	Central Asia	 43.735259	64.932677
+region	Western Asia	32.154283	39.200932
+region	Northern Europe	60.296760	-1.280624
+region	Western Europe	49.469435	6.367516
+region	Eastern Europe	52.111961	31.781771
+region	Southern Europe	41.315616	9.202824
+region	Northern Africa	27.568083	9.819491
+region	Western Africa	11.900251	2.404138
+region	Middle Africa	-2.494433	21.016337
+region	Eastern Africa	-2.139111	36.089406
+region	Southern Africa	-25.274833	23.448701
+region	South America	-20.172215	-58.168541
+region	Central America	17.136938	-93.867420
+region	Caribbean	18.087038	-67.891559
+region	North America	49.384464	-95.153337
+
+country	USA-West	41.993719	-114.041724
+country	USA-Midwest	42.508301	-90.640926
+country	USA-South	32.742565	-88.369056
+country	USA-Northeast	42.049638	-73.487314
+country	Australia	-24.7761086	134.755
+country	Belgium	50.6402809	4.6667145
+country	Canada	61.0666922	-107.9917071
+country	China	35.000074	104.999927
+country	United Kingdom	54.7023545	-3.2765753
+country	Germany	51.0834196	10.4234469
+country	Japan	36.5748441	139.2394179
+country	Malaysia	4.5693754	102.2656823
+country	Singapore	1.357107	103.8194992
+country	Switzerland	46.7985624	8.2319736
+country	Taiwan	23.9739374	120.9820179
+country	Vietnam	13.2904027	108.4265113
+
+division	Queensland	-22.1646782	144.5844903
+division	Victoria	-36.5986096	144.6780052
+division	Liege	50.6451381	5.5734203
+division	British Columbia	55.001251	-125.002441
+division	Ontario	50.000678	-86.000977
+division	Shandong	36.0000001	118.9999999
+division	Chongqing	29.5585712	106.5492822
+division	England	52.7954791	-0.5402402866174321
+division	Guangdong	23.1357694	113.1982688
+division	Anhui	32.0	117.0
+division	Jiangxi	28.0	116.0
+division	Duesseldorf	51.2254018	6.7763137
+division	Hangzhou	30.2489634	120.2052342
+division	Aichi	34.9991645	137.254574
+division	Kyoto	35.021041	135.7556075
+division	Nara	34.2963089	135.8816819
+division	Hubei	31.15172525	112.87832224656043
+division	Selangor	3.2083304	101.304146
+division	Scotland	56.7861112	-4.1140518
+division	Shanghai	31.2322758	121.4692071
+division	Singapore	1.357107	103.8194992
+division	Basel	47.5581077	7.5878261
+division	Taiwan	23.9739374	120.9820179
+division	Alaska	64.4459613	-149.680909
+division	Arizona	34.395342	-111.7632755
+division	California	36.7014631	-118.7559974
+division	Connecticut	41.6500201	-72.7342163
+division	District of Columbia	38.893661249999994	-76.98788325388196
+division	Florida	27.7567667	-81.4639835
+division	Georgia	32.3293809	-83.1137366
+division	Idaho	43.6447642	-114.0154071
+division	Illinois	40.0796606	-89.4337288
+division	Indiana	40.3270127	-86.1746933
+division	Massachusetts	42.3788774	-72.032366
+division	Maryland	39.5162234	-76.9382069
+division	North Carolina	35.6729639	-79.0392919
+division	New York	40.7127281	-74.0060152
+division	Oregon	43.9792797	-120.737257
+division	Pennsylvania	40.9699889	-77.7278831
+division	Texas	31.8160381	-99.5120986
+division	Utah	39.4225192	-111.7143584
+division	Virginia	37.1232245	-78.4927721
+division	Washington	47.468284	-120.491620
+division	Wisconsin	44.4308975	-89.6884637
+division	Wyoming	43.1700264	-107.5685348
+division	Ho Chi Minh City	10.7758439	106.7017555
+division	Wales	52.2928116	-3.73893
+division	Yunnan	25.0	102.0
+division	Zhejiang	29.0000001	119.9999999
+division	Michigan	42.3528971	-83.1271203
+division	New Jersey	40.0757384	-74.4041622
+
+location	Gold Coast	-28.0023731	153.4145987
+location	Brisbane	-27.4689682	153.0234991
+location	Melbourne	-37.8142176	144.9631608
+location	Zhongxian	30.0124802	107.8795148
+location	Foshan	23.0247687	113.1146335
+location	Fuyang	32.8926763	115.8090001
+location	Ganzhou	25.8332103	114.9287362
+location	Shenzhen	22.555454	114.0543297
+location	Kyoto	35.021041	135.7556075
+location	Pingxiang	27.6256066	113.8457387
+location	Jingzhou	30.3543831	112.1880958
+location	Nanchang	28.6792695	115.8885987
+location	Shangrao	28.450122	117.9724453
+location	Singapore	1.3408630000000001	103.83039182212079
+location	Taipei	25.011997	121.4656619
+location	Taoyuan	22.902358	121.084499
+location	Fairbanks	64.837845	-147.716675
+location	Ketchikan	55.3430696	-131.6466819
+location	Solano County	38.2218938	-121.9163555
+location	San Francisco	37.7790262	-122.4199061
+location	Fairfield County	41.2943069	-73.37486
+location	Nassau County	40.7412643	-73.5877699
+location	Queens	40.7498243	-73.7976337
+location	Manhattan	40.7896239	-73.9598939
+location	Staten Island	40.5834557	-74.1496048
+location	Suffolk County	40.8832318	-72.8578027
+location	Bronx	40.8466508	-73.8785937
+location	Westchester County	41.1763139	-73.7907554
+location	Richmond County	40.564209	-74.12530461995391
+location	New York City	40.7127281	-74.0060152
+location	Dutchess County	41.7194303	-73.7516205
+location	Rockland County	41.1519319	-74.0357266
+location	Onondaga County	43.015598	-76.2257127
+location	Broome County	42.1455623	-75.8404114
+location	Putnam County	41.426996	-73.760156
+location	Jefferson County	44.059311	-75.9995742
+location	Ulster County	41.8689317	-74.2618518
+location	Franklin County	44.5599139	-74.3273735
+location	Chenango County	42.4784565	-75.6130279
+location	Snohomish County	48.0074736	-121.7304882
+location	King County	47.4873376	-121.8622122
+location	Umatilla County	45.9173549	-119.3425179
+location	Pierce County	47.0022547	-122.2117983
+location	Seattle	47.6038321	-122.3300624
+location	Dane County	43.0709273	-89.4322174
+location	Wuhan	30.5951051	114.2999353
+location	Kunming	25.0437977	102.714338
+location	Hangzhou	30.2489634	120.2052342
+location	Wilton	41.1959409	-73.431976
+location	Stratford	41.1845415	-73.1331651
+location	Bethlehem	41.6393626	-73.2080798
+location	New Canaan	41.1458207	-73.4963532
+location	Beacon Falls	41.4428745	-73.062608
+location	Litchfield	41.7442295	-73.18996145265724
+location	New Haven	41.3082138	-72.9250518
+location	Berlin	41.621488	-72.7456519
+location	Woodbridge	41.352597	-73.0084385
+location	Deep River	41.3856546	-72.4356422
+location	Branford	41.2795414	-72.8150989
+location	Orange	41.2784304	-73.0256609
+location	Clinton	41.2756115	-72.52853197757256
+location	East Haven	41.2762081	-72.8684337
+location	Greenwich	41.0264862	-73.6284598
+location	Weston	41.2021302	-73.3812743
+location	Hamden	41.3959287	-72.8968716
+location	Easton	41.2528738	-73.2973394
+location	Cheshire	41.4989861	-72.900658
+location	West Haven	41.2706527	-72.9470471
+location	Monroe	41.3325962	-73.2073358
+location	Larchmont	40.9278769	-73.7517983
+location	Rye	40.9808209	-73.684294
+location	Farmingdale	40.7356738	-73.4417524
+location	Bronxville	40.9381544	-73.8320784
+location	Trumbull	41.2428742	-73.2006687
+location	Milford	41.2222218	-73.0570603
+location	Brooklyn	40.6501038	-73.9495823
+

@@ -1,0 +1,159 @@
+region	Oceania	#E073CE
+region	Eastern Asia	#8F29A3
+region	Southeastern Asia	#CC99FF
+region	Northern Europe	#2929A3
+region	Western Europe	#99CCFF
+region	North America	#A32929
+
+country	Australia	#E073CE
+country	Taiwan	#8F29A3
+country	China	#BE61D1
+country	Japan	#EE99FF
+country	Singapore	#6629A3
+country	Vietnam	#9961D1
+country	Malaysia	#CC99FF
+country	United Kingdom	#7373E0
+country	Switzerland	#2966A3
+country	Belgium	#6199D1
+country	Germany	#99CCFF
+country	USA-South	#A32929
+country	USA-West	#BA4545
+country	USA-Northeast	#D16161
+country	USA-Midwest	#E87D7D
+country	Canada	#663300
+
+division	Queensland	#A3298F
+division	Victoria	#FF99EE
+division	Taiwan	#8F29A3
+division	Guangdong	#9631AA
+division	Yunnan	#9D3AB1
+division	Jiangxi	#A442B8
+division	Zhejiang	#AC4BBF
+division	Chongqing	#B354C6
+division	Hangzhou	#BA5CCD
+division	Hubei	#C265D4
+division	Shanghai	#C96DDB
+division	Anhui	#D076E2
+division	Shandong	#D87FE9
+division	Nara	#DF87F0
+division	Aichi	#E690F7
+division	Kyoto	#EE99FF
+division	Singapore	#6629A3
+division	Ho Chi Minh City	#9961D1
+division	Selangor	#CC99FF
+division	Wales	#2929A3
+division	England	#6161D1
+division	Scotland	#9999FF
+division	Basel	#2966A3
+division	Liege	#6199D1
+division	Duesseldorf	#99CCFF
+division	Florida	#A32929
+division	Texas	#A62D2D
+division	Georgia	#AA3131
+division	North Carolina	#AE3636
+division	Virginia	#B13A3A
+division	District of Columbia	#B53F3F
+division	Maryland	#B94343
+division	Arizona	#BC4848
+division	California	#C04C4C
+division	Utah	#C45151
+division	Wyoming	#C75555
+division	Idaho	#CB5A5A
+division	Oregon	#CF5E5E
+division	Washington	#D26363
+division	Alaska	#D66767
+division	New Jersey	#DA6C6C
+division	New York	#3CB191
+division	Pennsylvania	#E17575
+division	Connecticut	#8FEECB
+division	Massachusetts	#E87E7E
+division	Illinois	#EC8282
+division	Indiana	#F08787
+division	Michigan	#F38B8B
+division	Wisconsin	#F79090
+division	Ontario	#FB9494
+division	British Columbia	#FF9999
+
+location	Brisbane	#A3298F
+location	Gold Coast	#D161BE
+location	Melbourne	#FF99EE
+location	Taoyuan	#8F29A3
+location	Taipei	#9531A9
+location	Shenzhen	#9C39B0
+location	Foshan	#A341B6
+location	Kunming	#AA49BD
+location	Ganzhou	#B051C3
+location	Pingxiang	#B759CA
+location	Shangrao	#BE61D1
+location	Nanchang	#C569D7
+location	Hangzhou	#CC71DE
+location	Zhongxian	#D279E4
+location	Jingzhou	#D981EB
+location	Wuhan	#E089F1
+location	Fuyang	#E791F8
+location	Kyoto	#EE99FF
+location	Singapore	#9961D1
+location	San Francisco	#A32929
+location	Solano County	#A42B2B
+location	Umatilla County	#A62D2D
+location	Pierce County	#A72F2F
+location	King County	#A93131
+location	Seattle	#AB3333
+location	Snohomish County	#AC3535
+location	Ketchikan	#AE3737
+location	Fairbanks	#B03939
+location	Richmond County	#B13B3B
+location	Staten Island	#B33D3D
+location	Brooklyn	#B53F3F
+location	New York City	#B64141
+location	Farmingdale	#B84343
+location	Nassau County	#BA4545
+location	Queens	#BB4747
+location	Manhattan	#BD4949
+location	Bronx	#BE4B4B
+location	Suffolk County	#C04D4D
+location	Larchmont	#C24F4F
+location	Bronxville	#C35151
+location	Rye	#C55353
+location	Rockland County	#C75555
+location	Westchester County	#C85757
+location	Putnam County	#CA5959
+location	Dutchess County	#CC5B5B
+location	Ulster County	#CD5D5D
+location	Broome County	#CF5F5F
+location	Chenango County	#D16161
+location	Onondaga County	#D26363
+location	Jefferson County	#D46565
+location	Franklin County	#D56767
+location	Greenwich	#D76969
+location	New Canaan	#D96B6B
+location	Stratford	#DA6D6D
+location	Wilton	#DC6F6F
+location	Weston	#DE7171
+location	Milford	#DF7373
+location	Trumbull	#E17575
+location	Easton	#E37777
+location	West Haven	#E47979
+location	Clinton	#E67B7B
+location	East Haven	#E87D7D
+location	Orange	#E97F7F
+location	Branford	#EB8181
+location	Fairfield County	#EC8383
+location	New Haven	#EE8585
+location	Monroe	#F08787
+location	Woodbridge	#F18989
+location	Deep River	#F38B8B
+location	Hamden	#F58D8D
+location	Beacon Falls	#F68F8F
+location	Cheshire	#F89191
+location	Berlin	#FA9393
+location	Bethlehem	#FB9595
+location	Litchfield	#FD9797
+location	Dane County	#FF9999
+
+update	Update00	#3E6ACC
+update	Update01	#54A0A7
+update	Update02	#81B86C
+update	Update03	#BABB49
+update	Update04	#E19C39
+update	Update05	#E0502A
