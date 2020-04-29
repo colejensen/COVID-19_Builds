@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+
+<!-- Regions according to the United Nations geoscheme -->
+<levels>
+    <region>
+
+      <area category="Oceania" id="Oceania" lat="-32.395085" long="152.518443">
+        Australia, Christmas Island, Cocos, Heard Island and McDonald Islands, New Zealand, Norfolk Island, Melanesia, Fiji, New Caledonia, Papua New Guinea, Solomon Islands, Vanuatu, Micronesia, Guam, Kiribati, Marshall Islands, Micronesia, Nauru, Northern Mariana Islands, Palau, Polynesia, American Samoa, Cook Islands, French Polynesia, Niue, Pitcairn Islands, Samoa, Tokelau, Tonga, Tuvalu, Wallis and Futuna
+      </area>
+
+      <area category="Asia" id="Eastern Asia" lat="32.974946" long="103.95701">
+        China, Hong Kong, Macau, Japan, Mongolia, North Korea, South Korea, Taiwan
+      </area>
+
+      <area category="Asia" id="Southeastern Asia" lat="3.965780" long="108.343168">
+        Brunei Darussalam, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Timor-Leste, Vietnam
+      </area>
+
+      <area category="Asia" id="Southern Asia" lat="27.961237" long="71.898465">
+        Afghanistan, Bangladesh, Bhutan, India, Iran, Maldives, Nepal, Pakistan, Sri Lanka
+      </area>
+
+      <area category="Asia" id="Central Asia" lat=" 43.735259" long="64.932677">
+        Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan
+      </area>
+
+      <area category="Asia" id="Western Asia" lat="32.154283" long="39.200932">
+        Armenia, Azerbaijan, Bahrain, Cyprus, Georgia, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia, State of Palestine, Syria, Turkey, United Arab Emirates, Yemen
+      </area>
+
+      <area category="Europe" id="Northern Europe" lat="60.296760" long="-1.280624">
+        Åland Islands, Denmark, Estonia, Faroe Islands, Finland, Guernsey, Iceland, Ireland, Isle of Man, Jersey, Latvia, Lithuania, Norway, Sark, Svalbard and Jan Mayen, Sweden, United Kingdom
+      </area>
+
+      <area category="Europe" id="Western Europe" lat="49.469435" long="6.367516">
+        Austria, Belgium, France, Germany, Liechtenstein, Luxembourg, Monaco, Netherlands, Switzerland
+      </area>
+
+      <area category="Europe" id="Eastern Europe" lat="52.111961" long="31.781771">
+        Belarus, Bulgaria, Czechia, Czech Republic, Hungary, Moldova, Poland, Romania, Russia, Slovakia, Ukraine
+      </area>
+
+      <area category="Europe" id="Southern Europe" lat="41.315616" long="9.202824">
+        Albania, Andorra, Bosnia and Herzegovina, Croatia, Gibraltar, Greece, Italy, Malta, Montenegro, North Macedonia, Portugal, San Marino, Serbia, Slovenia, Spain, Holy See
+      </area>
+
+      <area category="Africa" id="Northern Africa" lat="27.568083" long="9.819491">
+        Algeria, Egypt, Libya, Morocco, Sudan, Tunisia, Western Sahara
+      </area>
+
+      <area category="Africa" id="Western Africa" lat="11.900251" long="2.404138">
+        Benin, Burkina Faso, Cabo Verde, Côte d"Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Nigeria, Saint Helena, Ascension and Tristan da Cunha, Senegal, Sierra Leone, Togo
+      </area>
+
+      <area category="Africa" id="Middle Africa" lat="-2.494433" long="21.016337">
+      Angola, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Republic of the Congo, Equatorial Guinea, Gabon, São Tomé and Príncipe
+      </area>
+
+      <area category="Africa" id="Eastern Africa" lat="-2.139111" long="36.089406">
+      Burundi, Comoros, Djibouti, Eritrea, Ethiopia, Kenya, Madagascar, Malawi, Mauritius, Mayotte, Mozambique, Réunion, Rwanda, Seychelles, Somalia, South Sudan, Tanzania, Uganda, Zambia, Zimbabwe
+      </area>
+
+      <area category="Africa" id="Southern Africa" lat="-25.274833" long="23.448701">
+        Botswana, Eswatini (Swaziland), Lesotho, Namibia, South Africa
+      </area>
+
+    <area category="America" id="South America" lat="-20.172215" long="-58.168541">
+      Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Falkland Islands, French Guiana, Guyana, Paraguay, Peru, South Georgia and the South Sandwich Islands, Suriname, Uruguay, Venezuela
+    </area>
+
+    <area  category="America" id="Central America" lat="17.136938" long="-93.867420">
+      Belize, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama
+    </area>
+
+    <area  category="America" id="Caribbean" lat="18.087038" long="-67.891559">
+      Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Bonaire, Sint Eustatius and Saba, British Virgin Islands, Cayman Islands, Cuba, Curaçao, Dominica, Dominican Republic, Grenada, Guadeloupe, Haiti, Jamaica, Martinique, Montserrat, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Vincent and the Grenadines, Sint Maarten (Dutch part), Trinidad and Tobago, Turks and Caicos Islands, United States Virgin Islands
+    </area>
+
+    <area category="America" id="North America" lat="49.384464" long="-95.153337">
+      Bermuda, Canada, Greenland, Saint Pierre and Miquelon, United States of America, USA
+    </area>
+  </region>
+
+
+<!-- Country specific geographic scheme -->
+    <country>
+      <area  category="United States" id="USA-West" lat="41.993719" long="-114.041724">
+        Hawaii, Alaska, Washington, Oregon, California, Idaho, Montana, Wyoming, Nevada, Utah, Colorado, Arizona, New Mexico
+      </area>
+
+      <area category="United States" id="USA-Midwest" lat="42.508301" long="-90.640926">
+        North Dakota, South Dakota, Minnesota, Nebraska, Iowa, Kansas, Missouri, Wisconsin, Michigan, Illinois, Indiana, Ohio
+      </area>
+
+      <area category="United States" id="USA-South" lat="32.742565" long="-88.369056">
+        Texas, Oklahoma, Arkansas, Louisiana, Kentucky, Tennessee, Mississippi, Alabama, West Virginia, Maryland, Delaware, District of Columbia, Virginia, North Carolina, South Carolina, Georgia, Florida
+      </area>
+
+      <area category="United States" id="USA-Northeast" lat="42.049638" long="-73.487314">
+        New York, New Jersey, Pennsylvania, Vermont, New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island
+      </area>
+    </country>
+</levels>
