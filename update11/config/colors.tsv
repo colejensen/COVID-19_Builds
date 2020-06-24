@@ -1,0 +1,240 @@
+region	Oceania	#E073CE
+region	Eastern Asia	#8F29A3
+region	Southeastern Asia	#9D4EC1
+region	Southern Asia	#AC73E0
+region	Western Asia	#BB99FF
+region	Northern Europe	#2929A3
+region	Western Europe	#4E5FC1
+region	Eastern Europe	#7395E0
+region	Southern Europe	#99CCFF
+region	South America	#A37A29
+region	North America	#A32929
+
+country	Australia	#E073CE
+country	Taiwan	#8F29A3
+country	China	#BE61D1
+country	Japan	#EE99FF
+country	Singapore	#7A29A3
+country	Philippines	#9245BA
+country	Vietnam	#AB61D1
+country	Thailand	#C47DE8
+country	Malaysia	#DD99FF
+country	India	#AA73E0
+country	Israel	#5229A3
+country	Turkey	#BB99FF
+country	Ireland	#2929A3
+country	United Kingdom	#3B3BB2
+country	Denmark	#4E4EC1
+country	Sweden	#6161D1
+country	Finland	#7373E0
+country	Norway	#8686EF
+country	Iceland	#9999FF
+country	France	#293DA3
+country	Switzerland	#3B4FB2
+country	Austria	#4E61C1
+country	Luxembourg	#6173D1
+country	Belgium	#7385E0
+country	Germany	#8697EF
+country	Netherlands	#99AAFF
+country	Hungary	#2952A3
+country	Slovakia	#4E75C1
+country	Poland	#7398E0
+country	Russia	#99BBFF
+country	Greece	#2966A3
+country	Spain	#457FBA
+country	Portugal	#6199D1
+country	Italy	#7DB2E8
+country	Serbia	#99CCFF
+country	Brazil	#E0BC73
+country	USA-South	#A32929
+country	USA-West	#BA4545
+country	USA-Northeast	#D16161
+country	USA-Midwest	#E87D7D
+country	Canada	#663300
+
+division	Australia	#D161BE
+division	Taiwan	#8F29A3
+division	China	#BE61D1
+division	Japan	#EE99FF
+division	Singapore	#7A29A3
+division	Philippines	#9245BA
+division	Vietnam	#AB61D1
+division	Thailand	#C47DE8
+division	Malaysia	#DD99FF
+division	India	#9961D1
+division	Israel	#5229A3
+division	Turkey	#BB99FF
+division	Ireland	#2929A3
+division	Wales	#3737AE
+division	England	#4545BA
+division	Scotland	#5353C5
+division	Denmark	#6161D1
+division	Sweden	#6F6FDC
+division	Finland	#7D7DE8
+division	Norway	#8B8BF3
+division	Iceland	#9999FF
+division	France	#293DA3
+division	Switzerland	#3B4FB2
+division	Austria	#4E61C1
+division	Luxembourg	#6173D1
+division	Belgium	#7385E0
+division	Germany	#8697EF
+division	Netherlands	#99AAFF
+division	Hungary	#2952A3
+division	Slovakia	#4E75C1
+division	Poland	#7398E0
+division	Russia	#99BBFF
+division	Greece	#2966A3
+division	Spain	#457FBA
+division	Portugal	#6199D1
+division	Italy	#7DB2E8
+division	Serbia	#99CCFF
+division	Brazil	#D1AB61
+division	Florida	#A32929
+division	Texas	#A62D2D
+division	Georgia	#A93131
+division	North Carolina	#AD3535
+division	Virginia	#B03939
+division	Washington DC	#B43D3D
+division	Maryland	#B74141
+division	California	#BA4646
+division	Arizona	#BE4A4A
+division	Utah	#C14E4E
+division	Wyoming	#C55252
+division	Idaho	#C85656
+division	Oregon	#CB5A5A
+division	Washington	#CF5E5E
+division	Alaska	#D26363
+division	Pennsylvania	#D66767
+division	New Jersey	#D96B6B
+division	Connecticut	#8FEECB
+division	Rhode Island	#E07373
+division	Massachusetts	#E37777
+division	New York	#19AE77
+division	New Hampshire	#EA8080
+division	Vermont	#ED8484
+division	Indiana	#F18888
+division	Illinois	#F48C8C
+division	Minnesota	#F89090
+division	Ontario	#FB9494
+division	British Columbia	#FF9999
+
+location	Australia	#D161BE
+location	Taiwan	#8F29A3
+location	China	#BE61D1
+location	Japan	#EE99FF
+location	Singapore	#7A29A3
+location	Philippines	#9245BA
+location	Vietnam	#AB61D1
+location	Thailand	#C47DE8
+location	Malaysia	#DD99FF
+location	India	#9961D1
+location	Israel	#5229A3
+location	Turkey	#BB99FF
+location	Ireland	#2929A3
+location	Wales	#3737AE
+location	England	#4545BA
+location	Scotland	#5353C5
+location	Denmark	#6161D1
+location	Sweden	#6F6FDC
+location	Finland	#7D7DE8
+location	Norway	#8B8BF3
+location	Iceland	#9999FF
+location	France	#293DA3
+location	Switzerland	#3B4FB2
+location	Austria	#4E61C1
+location	Luxembourg	#6173D1
+location	Belgium	#7385E0
+location	Germany	#8697EF
+location	Netherlands	#99AAFF
+location	Hungary	#2952A3
+location	Slovakia	#4E75C1
+location	Poland	#7398E0
+location	Russia	#99BBFF
+location	Greece	#2966A3
+location	Spain	#457FBA
+location	Portugal	#6199D1
+location	Italy	#7DB2E8
+location	Serbia	#99CCFF
+location	Brazil	#D1AB61
+location	Florida	#A32929
+location	Texas	#A42A2A
+location	Georgia	#A52C2C
+location	North Carolina	#A72E2E
+location	Virginia	#A82F2F
+location	Washington DC	#A93131
+location	Maryland	#AB3333
+location	California	#AC3434
+location	Arizona	#AD3636
+location	Utah	#AF3838
+location	Wyoming	#B03939
+location	Idaho	#B23B3B
+location	Oregon	#B33D3D
+location	Washington	#B43E3E
+location	Alaska	#B64040
+location	Pennsylvania	#B74242
+location	New Jersey	#B84343
+location	Greenwich	#BA4545
+location	Wilton-Darien	#BB4747
+location	Westport-Fairfield	#BD4848
+location	Bridgeport	#BE4A4A
+location	Milford	#BF4C4C
+location	WestHaven	#C14D4D
+location	Ridgefield-Easton	#C24F4F
+location	Trumbull-Shelton	#C35151
+location	New-Haven	#C55252
+location	Branford-Madison	#C65454
+location	EastHaven-Northford	#C85656
+location	Prospect-Orange	#C95757
+location	Hamden	#CA5959
+location	Haddam-Westbrook	#CC5B5B
+location	Brookfield-Newtown	#CD5C5C
+location	Danbury-Sherman	#CE5E5E
+location	Southbury-Naugatuck	#D06060
+location	Cheshire-Wallingford	#D16161
+location	Meriden	#D36363
+location	Waterbury-Wolcott	#D46565
+location	Southington-Berlin	#D56666
+location	Litchfield-Watertown	#D76868
+location	Newington-Glastonbury	#D86A6A
+location	Burlington-Bristol	#D96B6B
+location	Manchester	#DB6D6D
+location	Suffield-Enfield	#DC6F6F
+location	Rhode Island	#DE7070
+location	Massachusetts	#DF7272
+location	Staten Island	#E07474
+location	Brooklyn	#E27575
+location	New York City	#E37777
+location	Farmingdale	#E47979
+location	Nassau County	#E67A7A
+location	Queens	#E77C7C
+location	Manhattan	#E97E7E
+location	Bronx	#EA7F7F
+location	Suffolk County	#EB8181
+location	NEW ROCHELLE	#ED8383
+location	Larchmont	#EE8484
+location	Bronxville	#EF8686
+location	Rye	#F18888
+location	Rockland County	#F28989
+location	Westchester County	#F48B8B
+location	New-York-State	#F58D8D
+location	New Hampshire	#F68E8E
+location	Vermont	#F89090
+location	Indiana	#F99292
+location	Illinois	#FA9393
+location	Minnesota	#FC9595
+location	Ontario	#FD9797
+location	British Columbia	#FF9999
+
+update	Update00	#0000B2
+update	Update01	#003BB2
+update	Update02	#0075B2
+update	Update03	#0CB09F
+update	Update04	#3CB270
+update	Update05	#6EB23E
+update	Update06	#9DB20F
+update	Update08	#B28600
+update	Update09	#B25000
+update	Update10	#B21700
+update	Update11	#7C0000
+
